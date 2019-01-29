@@ -4,6 +4,7 @@
 
 #site_container {
     margin: 50px 50px 50px 50px;
+    border: 5px;
 }
 
 h1 {
