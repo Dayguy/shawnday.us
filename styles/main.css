@@ -1,6 +1,10 @@
-html {
-    font-display: block;
+@font-face {
     font-family: 'Nunito', sans-serif;
+    font-display: auto;
+    src: local('Nunito'), url(https://fonts.googleapis.com/css?family=Nunito:400,700);
+}
+
+html {
     color: #444444;
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
