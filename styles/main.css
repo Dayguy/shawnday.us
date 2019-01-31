@@ -32,7 +32,7 @@ h1 {
 }
 
 .topnav {
-    height: 125px;
+    height: 100px;
     width: 100%;
     position: fixed;
     z-index: 1;
