@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Nunito', sans-serif;
-    font-display: block;
+    font-display: swap;
     src: local('Nunito'), url(https://fonts.googleapis.com/css?family=Nunito:400,700);
 }
 
