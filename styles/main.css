@@ -30,7 +30,7 @@ h1 {
 }
 
 hr {
-    border: 0;
+    /* border: 0; */
     clear: both;
     display: block;
     width: 96%;
