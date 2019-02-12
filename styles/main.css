@@ -29,6 +29,15 @@ h1 {
     color: deepskyblue;
 }
 
+hr {
+    border: 0;
+    clear: both;
+    display: block;
+    width: 96%;
+    background-color: #FFFF00;
+    height: 1px;
+}
+
 
 /* Containers */
 
